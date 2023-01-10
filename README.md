@@ -6,4 +6,4 @@ My personal portfolio
 Download or clone this repository and open the index.html file in your browser.
 
 ## Roadmap
-There are quite a few improvements I would like to make. 
+There are quite a few improvements I would like to make, including more animation and adding in more projects.
