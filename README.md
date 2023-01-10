@@ -3,11 +3,12 @@
 # Avery Vorwerk's personal portfolio.
 Hello and welcome to my portfolio! I am currently enrolled in the MIT xPRO Full Stack Development with MERN program and expected to complete it in May of 2023. I am knowledgeable in HTML, CSS, JavaScript and am learning MERN. I also know Adobe Photoshop and InDesign and have created many design projects in my current role.
 
-<ul>
-  <li><h2>Please explore my page and contact me!</h2></li>
-<p><li>Email: avorwerk@bu.edu</li>
-<li>Phone: 646-283-8462</li>
-<li><a href="https://www.linkedin.com/in/avery-vorwerk-557188109/">LinkedIn</a></li>
+<h2>Please explore my page and contact me!</h2>
+<ul style="list-style-type:none;"> 
+  <p>
+  <li>Email: avorwerk@bu.edu</li>
+  <li>Phone: 646-283-8462</li>
+  <li><a href="https://www.linkedin.com/in/avery-vorwerk-557188109/">LinkedIn</a></li>
   </p>
 </ul>
 
