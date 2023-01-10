@@ -6,7 +6,7 @@ Hello and welcome to my portfolio! I am currently enrolled in the MIT xPRO Full 
 Please explore my page and contact me!
 Email: avorwerk@bu.edu
 Phone: 646-283-8462
-a href="https://www.linkedin.com/in/avery-vorwerk-557188109/">LinkedIn</a> 
+<a href="https://www.linkedin.com/in/avery-vorwerk-557188109/">LinkedIn</a> 
 
 ## How to Run
 Download or clone this repository and open the index.html file in your browser.
